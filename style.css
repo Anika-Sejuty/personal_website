@@ -63,7 +63,9 @@ h1, h2 {
   color: var(--ink);
   margin: 0;
 }
-
+h1 {
+  margin-top: 20px; 
+}
 /* ============ HERO ============ */
 .hero {
   padding: 96px 0 72px;
