@@ -12,7 +12,7 @@
   --font-body: 'Inter', sans-serif;
   --font-mono: 'IBM Plex Mono', monospace;
 
-  --wrap-width: 780px;
+  --wrap-width: 820px;
 }
 
 * { box-sizing: border-box; }
